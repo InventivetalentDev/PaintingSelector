@@ -1,0 +1,8 @@
+name: PaintingSelector
+main: org.inventivetalent.paintingselector.PaintingSelector
+author: inventivetalent
+version: ${project.version}
+
+commands:
+  paintingselector:
+    aliases: [ps]
